@@ -1,4 +1,6 @@
-import { home } from "./homeController"
+import { home } from "./homeController.js"
+
+
 
 
 const allControllers = {
